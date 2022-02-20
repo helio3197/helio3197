@@ -2,7 +2,7 @@
 I'm a Full-Stack Software developer interested in new technologies and looking for new challenges.
 ## About Me 📄
 I love resolving problems, coding challenges, and all related to the IT field. I'm currently learning new languages and technologies like Ruby, Rails, React, Redux. I'm always open to new opportunities.
-### Skills:
+### My Skills 📖
 <div>
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
