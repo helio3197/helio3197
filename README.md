@@ -1,7 +1,7 @@
 ## Hi there I'm Kenny!👋
 I'm a Full-Stack Software developer interested in new technologies and looking for new challenges.
 ## About Me 📄
-I love resolving problems, coding challenges, and all related to the IT field. I'm currently learning new languages and technologies like Ruby, Rails, React, Redux. I'm always open to new opportunities.
+I love solving problems, coding challenges, and all related to IT. I'm currently learning new languages and technologies like Ruby, Rails, React, Redux. I'm always open to new opportunities.
 ### My Skills 📖
 <div>
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
