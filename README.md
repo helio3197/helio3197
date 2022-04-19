@@ -1,5 +1,5 @@
 ## Hi there I'm Kenny!👋
-I'm a <i>Full-Stack Software Developer</i> interested in new technologies and looking for new challenges.
+I'm a <i>Full-Stack Software Developer</i> interested in new technologies and challenges. Currently looking for new job opportunities.
 ## About Me 📄
 I love solving problems, coding challenges, and everything related to IT. I'm currently learning new languages and technologies like Ruby, Rails, React, Redux and more. I'm always open to new opportunities.
 ### My Skills 📖
