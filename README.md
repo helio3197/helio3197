@@ -8,7 +8,12 @@ I love solving problems, coding challenges, and everything related to IT. I'm cu
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff" alt="Sass">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white?style=flat" alt="Redux">
+  <img src="https://img.shields.io/badge/-React%20Router-230DC4?logo=react-router&logoColor=white?style=flat" alt="React-Router">
+  <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white?style=flat" alt="Jest">
+  <img src="https://img.shields.io/badge/-PostgreSQL-dad5d4?logo=postgresql&logoColor=white?style=flat" alt="PostgreSQL">
   <img src="https://badgen.net/badge/icon/git?icon=git&label" alt="Git">
 </div>
 
